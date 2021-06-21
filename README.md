@@ -1,6 +1,6 @@
 ## How this works
 
-The goal of the challenge is to evaluate your coding abilities and understand how you design a solution. Feel free to use yourn own methods and means to complete the solution, we will be looking for the following:
+The goal of the challenge is to evaluate your coding abilities and understand how you design a solution. Feel free to use your own methods and means to complete the solution, we will be looking for the following:
 
 - Overall solution design
 - Coding standard, comments and style
